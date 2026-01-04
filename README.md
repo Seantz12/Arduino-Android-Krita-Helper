@@ -8,3 +8,9 @@ Another excuse for me to play around with making another hyper specific arduino 
 * Has a keyboard matrix to allow for a wide variety of shortcuts/keys
 * * ex: Ctrl-z, ctrl-shift-z... other artist tools (i don't know them i'm not an artist...)
 * potentially: using qmk allow for remapping via remap.io
+
+# Things to note...
+
+* the controller i have is an arduino nano atmega+328P so for QMK it probably needs something special
+* https://www.obdev.at/products/vusb/index.html
+* ...I didn't need platform io did I
